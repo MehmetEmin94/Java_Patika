@@ -5,23 +5,23 @@ public class First {
         double ort;
         Scanner entered=new Scanner(System.in);
         System.out.print("Matematik notu : ");
-        int m=entered.nextInt();
+        double m=entered.nextDouble();
         System.out.print("Fizik notu : ");
-        int f=entered.nextInt();
+        double f=entered.nextDouble();
 
         System.out.print("Kimya notu : ");
-        int k=entered.nextInt();
+        double k=entered.nextDouble();
 
         System.out.print("Turkce notu : ");
-        int t=entered.nextInt();
+        double t=entered.nextDouble();
 
         System.out.print("Tarih notu : ");
-        int ta=entered.nextInt();
+        double ta=entered.nextDouble();
 
         System.out.print("Muzik notu : ");
-        int mu=entered.nextInt();
+        double mu=entered.nextDouble();
 
-        ort=(m+f+k+t+ta+mu)/6.0;
+        ort=(m+f+k+t+ta+mu)/6;
         boolean gecti=(ort>=60.0);
         String a=gecti?" gecti":" kaldi";
 
