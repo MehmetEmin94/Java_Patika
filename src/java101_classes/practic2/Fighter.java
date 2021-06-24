@@ -1,4 +1,4 @@
-package java101_classes.pratic2;
+package java101_classes.practic2;
 
 public class Fighter {
     String name;

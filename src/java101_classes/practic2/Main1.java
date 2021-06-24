@@ -1,4 +1,4 @@
-package java101_classes.pratic2;
+package java101_classes.practic2;
 
 public class Main1 {
     public static void main(String[] args) {
