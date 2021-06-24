@@ -19,9 +19,9 @@ public class PrimeNumbersRecursive {
         int number= scan.nextInt();
 
         if(isPrime(number,2)){
-            System.out.println("Yes");
+            System.out.println(number+" is a prime");
         }else {
-            System.out.println("No");
+            System.out.println(number+" is not a prime");
         }
 
 
