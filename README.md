@@ -1,1 +1,0 @@
- 	![university management system](src/Diagram1.jpeg)
