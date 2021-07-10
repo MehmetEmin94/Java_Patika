@@ -1,1 +1,1 @@
- 	![university management system](src/Diagram1.jpeg)
+ 	![university management system](Diagram1.jpeg)
