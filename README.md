@@ -1,1 +1,1 @@
- 	![university management system](JavaPatika/Diagram1.png)
+ 	![university management system](/Diagram1.png)
