@@ -1,1 +1,1 @@
-# JavaPatika
+ 	![university management system](JavaPatika/Diagram1.png)
