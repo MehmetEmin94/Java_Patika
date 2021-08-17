@@ -1,4 +1,4 @@
-package adventureTime;
+package java102.adventureTime;
 
 public class Knight extends GameChar{
     public Knight() {

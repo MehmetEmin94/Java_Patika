@@ -1,4 +1,4 @@
-package adventureTime;
+package java102.adventureTime;
 
 
 import java.util.Scanner;

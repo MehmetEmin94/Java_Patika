@@ -1,4 +1,4 @@
-package adventureTime;
+package java102.adventureTime;
 
 public abstract class NormalLoc extends Location{
     public NormalLoc(Player player, String name,int id) {
