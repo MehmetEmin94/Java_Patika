@@ -1,4 +1,4 @@
-package patikaStore;
+package java102.patikaStore;
 
 import java.util.ArrayList;
 import java.util.Scanner;

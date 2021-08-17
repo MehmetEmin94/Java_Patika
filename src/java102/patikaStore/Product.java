@@ -1,4 +1,4 @@
-package patikaStore;
+package java102.patikaStore;
 
 public class Product {
     private double unitPrice;

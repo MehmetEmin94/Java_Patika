@@ -1,4 +1,4 @@
-package collections.task1;
+package java102.collections.task1;
 
 import java.util.Comparator;
 

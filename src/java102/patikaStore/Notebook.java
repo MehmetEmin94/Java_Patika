@@ -1,4 +1,4 @@
-package patikaStore;
+package java102.patikaStore;
 
 public class Notebook extends Product{
     private int id;
